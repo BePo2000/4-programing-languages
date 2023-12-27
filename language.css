@@ -1,0 +1,46 @@
+
+body{
+
+background-color: rgb(126, 146, 206);
+
+}
+
+h1{ text-align: center;
+
+    text-shadow: 20PX -15PX 5PX rgb(77, 77, 109) ;
+    text-decoration: dashed underline;
+
+}
+
+
+div{
+
+direction: rtl;
+  text-align: right; 
+
+    
+    width: auto;
+    height: auto;
+    word-wrap: break-word;
+}
+p{
+    
+    font-size: 22PX;
+  line-height: 35px;
+  word-wrap: break-word;
+  
+  max-width: 2100px ;
+  max-height: 120px ;
+}
+.ww{
+    text-decoration:  underline solid;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px 10px 10px 10px;
+
+}
