@@ -28,9 +28,10 @@ p{
     font-size: 22PX;
   line-height: 35px;
   word-wrap: break-word;
-  
-  max-width: 2100px ;
-  max-height: 120px ;
+  min-width: 425px;
+  /* min-height:1230px ; */
+  max-width: 2560px ;
+  max-height: 1447px ;
 }
 .ww{
     text-decoration:  underline solid;
